@@ -2,7 +2,7 @@ library(keras)
 library(EBImage)
 library(reticulate)
 
-#Read Image
+#Read Image Sushrut
 
 pic1 <- c('n02111277_13.jpeg','n02111277_19.jpeg','n02111277_25.jpeg','n02111277_32.jpeg'
           ,'n02111277_36.jpeg','n02111277_39.jpeg','n02111277_53.jpeg','n02111277_56.jpeg'
